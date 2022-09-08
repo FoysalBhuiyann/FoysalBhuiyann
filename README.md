@@ -27,9 +27,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=foysalbhuiyann" alt="foysalbhuiyann" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=foysalbhuiyann&show_icons=true&locale=en&layout=compact" alt="foysalbhuiyann" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoysalBhuiyann)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=foysalbhuiyann&show_icons=true&locale=en" alt="foysalbhuiyann" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=foysalbhuiyann&theme=dark" alt="foysalbhuiyann" /></p>
 
+![GitHub metrics](https://metrics.lecoq.io/FoysalBhuiyann)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FoysalBhuiyann)  
