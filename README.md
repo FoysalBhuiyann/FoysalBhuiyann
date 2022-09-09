@@ -1,3 +1,5 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=foysalbhuiyann&label=Profile%20views&color=0e75b6&style=flat" alt="foysalbhuiyann" /> </p>
+
 <h1 align="center">Hi 👋, I'm Foysal Bhuiyan</h1>
 <h3 align="center">MERN-WEB DEVELOPER. || IT - ENTHUSIAST.</h3>
 
@@ -5,8 +7,6 @@
   <code>
     <a href="https://www.linkedin.com/in/oli-ahamed-foysal-b-9830321ab/" title="LinkedIn Profile"> LinkedIn</a></code>
 </h5>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=foysalbhuiyann&label=Profile%20views&color=0e75b6&style=flat" alt="foysalbhuiyann" /> </p>
 
 - 🔭 I’m currently working on [Panda Commerce](https://foysalbhuiyann.github.io/panda-commerce/)
 
